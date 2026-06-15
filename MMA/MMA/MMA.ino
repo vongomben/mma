@@ -41,7 +41,7 @@ const int NUM_WIFI = sizeof(WIFI_SSIDS) / sizeof(WIFI_SSIDS[0]);
 // TELEGRAM BOT
 // =======================
 
-#define BOT_TOKEN "5450960264:AAHnwFJ0EI1m-cf6c2_iL3hMe89CQCcc3fo"
+#define BOT_TOKEN "token"
 
 // =======================
 // RELAY
